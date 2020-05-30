@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a5f6108e-09dc-40d5-a7d1-fda2d568bae6/deploy-status)](https://app.netlify.com/sites/eloquent-kowalevski-c27b7e/deploys)

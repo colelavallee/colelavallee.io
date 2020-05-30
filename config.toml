@@ -1,6 +1,6 @@
-baseURL = "https://cole.sh"
+baseURL = "https://colelavallee.io"
 languageCode = "en-us"
-title = "cole.sh"
+title = "colelavallee.io"
 author = "Cole Lavallee"
 theme = "monopriv"
 paginate = 3
