@@ -1,4 +1,4 @@
-baseURL = "https://eloquent-kowalevski-c27b7e.netlify.app"
+baseURL = "https://colelavallee.io
 languageCode = "en-us"
 title = "colelavallee.io"
 author = "Cole Lavallee"
@@ -12,8 +12,6 @@ summaryLength = 20
 about = "Cats. Computers. Coffee."
 github = "https://github.com/colealtdelete"
 linkedin = "https://linkedin.com/in/colelavallee"
-
-
 
 [params.hero]
 enabled = true
