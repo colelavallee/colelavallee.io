@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cole.sh</title>
+    <link>https://cole.sh/</link>
+    <description>Recent content on cole.sh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://cole.sh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

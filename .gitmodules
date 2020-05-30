@@ -1,0 +1,3 @@
+[submodule "themes/monopriv"]
+	path = themes/monopriv
+	url = https://gitlab.com/colealtdelete/monopriv.git
