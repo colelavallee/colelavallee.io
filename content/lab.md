@@ -5,5 +5,3 @@ draft: false
 ---
 
 ### Currently under construction...
-
-![Catstruction](cat_construction.jpg)
