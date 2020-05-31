@@ -6,4 +6,4 @@ draft: false
 
 ### Currently under construction...
 
-![Catstruction](images/cat_construction.jpg)
+![Catstruction](cat_construction.jpg)
