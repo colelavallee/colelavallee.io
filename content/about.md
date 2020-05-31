@@ -1,7 +1,8 @@
 ---
 title: "About"
 date: 2020-05-30T17:23:33-04:00
-draft: true
+draft: false
+type: "page"
 ---
 
 
