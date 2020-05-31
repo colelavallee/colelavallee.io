@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cole.sh</title>
-    <link>https://cole.sh/</link>
-    <description>Recent content on cole.sh</description>
+    <title>colelavallee.io</title>
+    <link>https://colelavallee.io/</link>
+    <description>Recent content on colelavallee.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://cole.sh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://colelavallee.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://colelavallee.io/about/</link>
+      <pubDate>Sat, 30 May 2020 17:23:33 -0400</pubDate>
+      
+      <guid>https://colelavallee.io/about/</guid>
+      <description>Hey there, I&amp;rsquo;m Cole 👋 I&amp;rsquo;ve worked in IT for over a decade in various roles from desktop support, sysadmin, management, and currently as security engineer with a focus on cloud.</description>
+    </item>
     
   </channel>
 </rss>
