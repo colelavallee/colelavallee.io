@@ -12,6 +12,7 @@ summaryLength = 20
 about = "Cloud. Automation. Infosec."
 github = "https://github.com/colealtdelete"
 linkedin = "https://linkedin.com/in/colelavallee"
+goodreads = "https://goodreads.com/colealtdelete"
 
 [params.hero]
 enabled = true
