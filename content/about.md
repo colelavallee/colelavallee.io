@@ -8,7 +8,7 @@ type: "page"
 
 ### Hey there, I'm Cole :wave:
 
-I've worked in IT for over a decade in various roles from desktop support, sysadmin, management, and currently as security engineer with a focus on cloud.
+I've worked in IT for over a decade in various roles from desktop support, sysadmin, infosec, management, and currently as Solutions Architect.
 
 ### I :heart_eyes: Automation & Security
 
